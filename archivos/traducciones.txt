@@ -1,0 +1,98 @@
+Español,Italiano,Alemán,Francés,Inglés
+manzana,mela,Apfel,ponme,apple
+pan,pane,Brot,pain,bread
+queso,formaggio,Käse,fromage,cheese
+carne,carne,Fleisch,viande,meat
+leche,latte,Milch,lait,milk
+huevo,uovo,Ei,oeuf,egg
+arroz,riso,Reis,riz,rice
+aceite,olio,Öl,huile,oil
+pescado,pesce,Fisch,poisson,fish
+agua,acqua,Wasser	eau,water
+sal,sale,Salz,sel,salt
+azúcar,zucchero,Zucker,sucre,sugar
+patata,patata,Kartoffel,pomme de terre,potato
+tomate,pomodoro,Tomate,tomate,tomato
+pan integral,pane integrale,Vollkornbrot,pain complet,whole wheat bread
+harina,farinaMehl,farine,flour
+mantequilla,burro,Butterbeurre,butter
+cebolla	cipolla,Zwiebel,oignon,onion
+ajo,aglio,Knoblauch,ail,garlic
+pollo,pollo,Huhn,poulet,chicken
+quesorallado,ormaggio grattugiato,geriebener Käse,fromage râpé,grated cheese
+panecillo,panino,Brötchen,petit pain,roll
+tarta,torta,Kuchen,tarte,cake
+helado,gelato,Eis,glace,ice cream
+perro,cane,Hund,chien,dog
+gato,gatto,Katze,chat,cat
+pájaro,Uccello,Vogel,oiseau,bird
+pez,pesce,Fisch,poisson,fish
+caballo,caballo,Pferd,cheval,horse
+vaca,mucca,Kuh,vache,cow
+ratón,topo,Maus,souris,mouse
+elefante,Elefante,Elefant,éléphant,elephant
+león,leone,Löwe,lion,lion
+tigre,tigre,Tiger,tigre,tiger
+oso,orso,Bär,ours,bear
+mono,scimmia,Affe,singe,monkey
+serpiente,serpent,Schlange,serpent,snake
+tortuga,tartaruga,Schildkröte,tortue,turtle
+canguro,canguro,Känguru,kangourou,kangaroo
+pato,anatra,Ente,canard,duck
+gallina,gallina,Huhn,poule,chicken
+cerdo,maiale,Schwein,cochon,pig
+conejo,coniglio,Kaninchen,lapin,rabbit
+ciervo,cervo,Hirsch,cerf,deer
+zorro,volpe,Fuchs,renard,fox
+delfín,Delfino,Delphin,dauphin,dolphin
+tiburón,squalo,Hai,requin,shark
+gorilla,gorilla,Gorilla,gorille,gorilla
+Mesa,Tavolo,Tisch,Table,Table
+Silla,Sedia,Stuhl,Chaise,Chair
+Sofá,Divano,Sofa,Canapé,Sofa
+Cama,Letto,Bett,Lit,Bed
+Armario,Armadio,Schrank,Armoire,Wardrobe
+Estantería,Scaffale,Regal,Étagère,Shelf
+Lámpara,Lampada,Lampe,Lampe,Lamp
+Televisor,Televisione,Fernseher,téléviseur,Television
+Refrigerador,Frigorifero,Kühlschrank,Réfrigérateur,Refrigerator
+Horno,Forno,Ofen,Four,Oven
+Lavadora,Lavatrice,Waschmaschine,Machine à laver,Washing machine
+Microondas,Forno a microonde,Mikrowelle,Micro-ondes,Microwave
+Fregadero,Lavandino,Spüle,Évier,Sink
+Bañera	Vasca,Badewanne,Baignoire,Bathtub
+Ducha,Doccia,Dusche,Douche,Shower
+Espejo,Specchio,Spiegel,Miroir,Mirror
+Mesa de centro,Tavolino,Couchtisch,Table basse,Coffee table
+Escritorio,Scrivania,Schreibtisch,Bureau,Desk
+Sillón,Poltrona,Sessel,Fauteuil,Armchair
+Cómoda,Cassettiera,Kommode,Commode,Dresser
+Cortina,Tenda,Vorhang,Rideau,Curtain
+Alfombra,Tappeto,Teppich,tapis,Rug
+Manta,Coperta,Decke,Couverture,Blanket
+Almohada,Cuscino,Kissen,Oreiller,Pillow
+Toalla,Asciugamano,Handtuch,Serviette,Towel
+Médico	Medico	Arzt	Médecin	Doctor
+Profesor,Insegnante,Lehrer,Professeur,Teacher
+Abogado,Avvocato,Anwalt,Avocat,Lawyer
+Ingeniero,Ingegnere,Ingenieur,Ingénieur,Engineer
+Electricista,Elettricista,Elektriker,Électricien,Electrician
+Carpintero,Falegname,Zimmermann,Charpentier,Carpenter
+Fontanero,Idraulico,Klempner,Plombier,Plumber
+Cocinero,Cuoco,Koch,Cuisinier,Cook
+Enfermero,Infermiere,Krankenpfleger,Infirmier,Nurse
+Mecánico,Meccanico,Mechaniker,Mécanicien,Mechanic
+Agricultor,Agricoltore,Landwirt,Agriculteur,Farmer
+Arquitecto,Architetto,Architekt,Architecte,Architect
+Policía,Poliziotto,Polizist,Policier,Police Officer
+Bombero,Pompiere,Feuerwehrmann,Pompier,Firefighter
+Actor,Attore,Schauspieler,Acteur,Actor
+Cantante,Cantante,Sänger,Chanteur,Singer
+Escritor,Scrittore,Schriftsteller,Écrivain,Writer
+Artista	Artista	Künstler,Artiste,Artist
+Veterinario,Veterinario,Tierarzt,Vétérinaire,Veterinarian
+Fotógrafo,Fotografo,Fotograf,Photographe,Photographer
+Artesano,Artigiano,Handwerker,Artisan,Craftsman
+Psicólogo,Psicologo,Psychologe,Psychologue,Psychologist
+Dentista,Dentista,Zahnarzt,Dentiste,Dentist
+Peluquero,Parrucchiere,Friseur,Coiffeur,Hairdresser
