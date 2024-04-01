@@ -1,11 +1,14 @@
 #include "clases/interfaceUsuario.h"
 #include <iostream>
 #include <conio.h>
+#include "leerArchivo.cpp"
 
 using namespace std;
 
 void InterfaceUsuario::menuPrincipal() {
      int opcion = 0;
+     
+     MultiLanguageTree leerArch;
     do {
         cout << "\nMenu Principal\n";
         cout << "1. Cargar archivo de traducción\n";
@@ -19,6 +22,8 @@ void InterfaceUsuario::menuPrincipal() {
         switch (opcion) {
             case 1:
                 cout << "Cargando archivo de traducción...\n";
+                
+                leerArch.leerArchivo();
                 getch(); 
                 // Lógica para cargar archivo
                 break;
