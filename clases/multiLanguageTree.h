@@ -58,7 +58,7 @@ public:
     }
 
     int leerArchivo();
-    int insertarNuevaTraduccion();
+    void escribir();
 };
 
  

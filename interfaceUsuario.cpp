@@ -2,6 +2,7 @@
 #include <iostream>
 #include <conio.h>
 #include "leerArchivo.cpp"
+#include "insertarPalabras.cpp"
 
 using namespace std;
 
@@ -33,8 +34,7 @@ void InterfaceUsuario::menuPrincipal() {
                 // Lógica para traducir
                 break;
             case 3:
-                cout << "Agregando traducción...\n";
-                //
+               leerArch.escribir();
                 getch(); 
                 // Lógica para agregar traducción
                 break;
