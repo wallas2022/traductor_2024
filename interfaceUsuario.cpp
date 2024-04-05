@@ -34,6 +34,7 @@ void InterfaceUsuario::menuPrincipal() {
                 break;
             case 3:
                 cout << "Agregando traducción...\n";
+                //
                 getch(); 
                 // Lógica para agregar traducción
                 break;

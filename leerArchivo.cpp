@@ -40,3 +40,8 @@ int MultiLanguageTree::leerArchivo(){
 
 
 }
+
+int MultiLanguageTree::insertarNuevaTraduccion(){
+    
+    return 0;
+}

@@ -58,6 +58,7 @@ public:
     }
 
     int leerArchivo();
+    int insertarNuevaTraduccion();
 };
 
  
