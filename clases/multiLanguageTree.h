@@ -58,6 +58,7 @@ public:
     }
 
     int leerArchivo();
+    void escribir();
 };
 
  
