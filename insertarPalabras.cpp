@@ -33,7 +33,7 @@ void MultiLanguageTree::escribir(){
   	cout<<"Archivo no encontrado";
   	exit(1);
   }
-  5
+
   cout<<"\nDigite la palabra en Espanol: ";
   getline(cin,Espanol);
   getch();
